@@ -1,1 +1,1 @@
-print "Hello trader"
+print("Hello trader")
